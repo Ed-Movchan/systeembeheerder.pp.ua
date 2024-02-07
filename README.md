@@ -1,6 +1,6 @@
 # computerservicemovchan.pp.ua
 
-Website ICT service for private person and business
+ICT Service, small business
 
-I made it, using BootstarpMode template (PHP, HTML, CSS, JS).
+BootstarpMode template (PHP, HTML, CSS, JS).
 
