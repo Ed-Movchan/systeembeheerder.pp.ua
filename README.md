@@ -1,6 +1,6 @@
 # computerservicemovchan.pp.ua
 
-ICT Service, small business
+ICT Service, hobby (small business)
 
-BootstarpMode template (PHP, HTML, CSS, JS).
+BootstarpMode template (PHP, HTML, CSS, JS)
 
